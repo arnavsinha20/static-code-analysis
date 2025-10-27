@@ -1,0 +1,16 @@
+************* Module fixed_inventory_system
+fixed_inventory_system.py:97:0: C0304: Final newline missing (missing-final-newline)
+fixed_inventory_system.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+fixed_inventory_system.py:9:0: C0116: Missing function or method docstring (missing-function-docstring)
+fixed_inventory_system.py:25:0: C0116: Missing function or method docstring (missing-function-docstring)
+fixed_inventory_system.py:39:0: C0116: Missing function or method docstring (missing-function-docstring)
+fixed_inventory_system.py:43:0: C0116: Missing function or method docstring (missing-function-docstring)
+fixed_inventory_system.py:44:4: W0603: Using the global statement (global-statement)
+fixed_inventory_system.py:59:0: C0116: Missing function or method docstring (missing-function-docstring)
+fixed_inventory_system.py:67:0: C0116: Missing function or method docstring (missing-function-docstring)
+fixed_inventory_system.py:73:0: C0116: Missing function or method docstring (missing-function-docstring)
+fixed_inventory_system.py:81:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+-----------------------------------
+Your code has been rated at 8.38/10
+
